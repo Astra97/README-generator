@@ -6,19 +6,19 @@
   None
   ## __Description__
   
-  Simple README generator
+  A program designed to build README.md files
   ### __Installation__
   
-  none
+  git clone or git pull for latest version
   ### __Usage__
   
-  Generate README.md files for projects
+  Generate README files to any particular project
   ### __Contributing__
   
   none
   ### __Tests__
   
-  node
+  Node index.js
   ### __Questions__
   - Find me on [Github](https//github.com/Astra97)!
   - For further information or questions, email me at abelestrada9@gmail.com
